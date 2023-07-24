@@ -1,0 +1,12 @@
+body {
+    background-position: center;
+    background-size: cover;
+}
+
+canvas {
+    background-color: red;
+    border-color: black;
+    box-shadow: aqua;
+    padding: 10px;
+    margin: 15px;
+}
